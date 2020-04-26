@@ -1,0 +1,17 @@
+div#login-error {
+    text-align: center;
+}
+input#btncat_submit {
+    background-color: #f4f6f9;
+}
+a#btn_edit {
+    margin-left: 20% !important;
+}
+a#btn_delete {
+    margin-left: 20% !important;
+}
+div#add_category_btn {
+    margin-left: 1% !important;
+    margin-top: 2%;
+    /* background: black; */
+}
